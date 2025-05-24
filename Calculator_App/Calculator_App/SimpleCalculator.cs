@@ -133,7 +133,7 @@ namespace Calculator_App
 
                 for (int i=0; i<x.Length; i++)
                 {
-                    if (x[i] != '*' && x[i] != '+')
+                    if (x[i] != '*' && x[i] != '+' && x[i] != '/' && x[i] != '-')
                     {
                         y += x[i];
                     }
@@ -143,10 +143,26 @@ namespace Calculator_App
                         {
                             z += x[j];
                         }
-                        if (x[i] == '*')
-                            x = Convert.ToString(Convert.ToInt32(y) * Convert.ToInt32(z));
-                        else if (x[i] == '+')
-                            x = Convert.ToString(Convert.ToInt32(y) + Convert.ToInt32(z));
+                        switch(x[i])
+                        {
+                            case '*':
+                                x = Convert.ToString(Convert.ToInt32(y) * Convert.ToInt32(z));
+                                break;
+                            case '+':
+                                x = Convert.ToString(Convert.ToInt32(y) + Convert.ToInt32(z));
+                                break;
+                            case '-':
+                                x = Convert.ToString(Convert.ToInt32(y) - Convert.ToInt32(z));
+                                break;
+                            case '/':
+                                if (Convert.ToInt32(z) == 0)
+                                {
+                                    textBox1.Text = "Error: Division by zero";
+                                    return;
+                                }
+                                x = Convert.ToString(Convert.ToDouble(y) / Convert.ToDouble(z));
+                                break;
+                        }
 
 
                         textBox1.Text += " = " + x;
@@ -196,6 +212,12 @@ namespace Calculator_App
             {
                 x += y[i];
             }
+            textBox1.Text = x;
+        }
+
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+            x+= "-";
             textBox1.Text = x;
         }
     }

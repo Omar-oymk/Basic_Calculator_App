@@ -18,3 +18,13 @@ C:\Users\abdul\Source\Repos\Basic_Calculator_App\Calculator_App\Calculator_App\o
 C:\Users\abdul\Source\Repos\Basic_Calculator_App\Calculator_App\Calculator_App\obj\Debug\Calculator_App.csproj.CoreCompileInputs.cache
 C:\Users\abdul\Source\Repos\Basic_Calculator_App\Calculator_App\Calculator_App\obj\Debug\Calculator_App.exe
 C:\Users\abdul\Source\Repos\Basic_Calculator_App\Calculator_App\Calculator_App\obj\Debug\Calculator_App.pdb
+C:\Users\user\source\repos\Omar-oymk\Basic_Calculator_App\Calculator_App\Calculator_App\bin\Debug\Calculator_App.exe.config
+C:\Users\user\source\repos\Omar-oymk\Basic_Calculator_App\Calculator_App\Calculator_App\bin\Debug\Calculator_App.exe
+C:\Users\user\source\repos\Omar-oymk\Basic_Calculator_App\Calculator_App\Calculator_App\bin\Debug\Calculator_App.pdb
+C:\Users\user\source\repos\Omar-oymk\Basic_Calculator_App\Calculator_App\Calculator_App\obj\Debug\Calculator_App.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Omar-oymk\Basic_Calculator_App\Calculator_App\Calculator_App\obj\Debug\Calculator_App.SimpleCalculator.resources
+C:\Users\user\source\repos\Omar-oymk\Basic_Calculator_App\Calculator_App\Calculator_App\obj\Debug\Calculator_App.Properties.Resources.resources
+C:\Users\user\source\repos\Omar-oymk\Basic_Calculator_App\Calculator_App\Calculator_App\obj\Debug\Calculator_App.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Omar-oymk\Basic_Calculator_App\Calculator_App\Calculator_App\obj\Debug\Calculator_App.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Omar-oymk\Basic_Calculator_App\Calculator_App\Calculator_App\obj\Debug\Calculator_App.exe
+C:\Users\user\source\repos\Omar-oymk\Basic_Calculator_App\Calculator_App\Calculator_App\obj\Debug\Calculator_App.pdb

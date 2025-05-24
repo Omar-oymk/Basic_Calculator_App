@@ -56,6 +56,7 @@ namespace Calculator_App
             // 
             // button1
             // 
+            this.button1.AutoSize = true;
             this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(4)))), ((int)(((byte)(6)))));
             this.button1.Location = new System.Drawing.Point(321, 351);
             this.button1.Name = "button1";
@@ -67,6 +68,7 @@ namespace Calculator_App
             // 
             // button2
             // 
+            this.button2.AutoSize = true;
             this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(4)))), ((int)(((byte)(6)))));
             this.button2.Location = new System.Drawing.Point(321, 432);
             this.button2.Name = "button2";
@@ -78,6 +80,7 @@ namespace Calculator_App
             // 
             // button3
             // 
+            this.button3.AutoSize = true;
             this.button3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(4)))), ((int)(((byte)(6)))));
             this.button3.Location = new System.Drawing.Point(240, 351);
             this.button3.Name = "button3";
@@ -85,9 +88,11 @@ namespace Calculator_App
             this.button3.TabIndex = 4;
             this.button3.Text = "-";
             this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click_1);
             // 
             // button4
             // 
+            this.button4.AutoSize = true;
             this.button4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(4)))), ((int)(((byte)(6)))));
             this.button4.Location = new System.Drawing.Point(240, 432);
             this.button4.Name = "button4";
@@ -99,6 +104,7 @@ namespace Calculator_App
             // 
             // button5
             // 
+            this.button5.AutoSize = true;
             this.button5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(81)))), ((int)(((byte)(90)))), ((int)(((byte)(71)))));
             this.button5.Location = new System.Drawing.Point(12, 436);
             this.button5.Name = "button5";
@@ -110,6 +116,7 @@ namespace Calculator_App
             // 
             // button6
             // 
+            this.button6.AutoSize = true;
             this.button6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(81)))), ((int)(((byte)(90)))), ((int)(((byte)(71)))));
             this.button6.Location = new System.Drawing.Point(88, 436);
             this.button6.Name = "button6";
@@ -121,6 +128,7 @@ namespace Calculator_App
             // 
             // button7
             // 
+            this.button7.AutoSize = true;
             this.button7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(81)))), ((int)(((byte)(90)))), ((int)(((byte)(71)))));
             this.button7.Location = new System.Drawing.Point(12, 512);
             this.button7.Name = "button7";
@@ -132,6 +140,7 @@ namespace Calculator_App
             // 
             // button8
             // 
+            this.button8.AutoSize = true;
             this.button8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(81)))), ((int)(((byte)(90)))), ((int)(((byte)(71)))));
             this.button8.Location = new System.Drawing.Point(88, 512);
             this.button8.Name = "button8";
@@ -143,6 +152,7 @@ namespace Calculator_App
             // 
             // button9
             // 
+            this.button9.AutoSize = true;
             this.button9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(81)))), ((int)(((byte)(90)))), ((int)(((byte)(71)))));
             this.button9.Location = new System.Drawing.Point(12, 360);
             this.button9.Name = "button9";
@@ -154,6 +164,7 @@ namespace Calculator_App
             // 
             // button10
             // 
+            this.button10.AutoSize = true;
             this.button10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(81)))), ((int)(((byte)(90)))), ((int)(((byte)(71)))));
             this.button10.Location = new System.Drawing.Point(88, 360);
             this.button10.Name = "button10";
@@ -165,6 +176,7 @@ namespace Calculator_App
             // 
             // button11
             // 
+            this.button11.AutoSize = true;
             this.button11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(81)))), ((int)(((byte)(90)))), ((int)(((byte)(71)))));
             this.button11.Location = new System.Drawing.Point(164, 360);
             this.button11.Name = "button11";
@@ -176,6 +188,7 @@ namespace Calculator_App
             // 
             // button12
             // 
+            this.button12.AutoSize = true;
             this.button12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(81)))), ((int)(((byte)(90)))), ((int)(((byte)(71)))));
             this.button12.Location = new System.Drawing.Point(164, 436);
             this.button12.Name = "button12";
@@ -187,6 +200,7 @@ namespace Calculator_App
             // 
             // button13
             // 
+            this.button13.AutoSize = true;
             this.button13.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(81)))), ((int)(((byte)(90)))), ((int)(((byte)(71)))));
             this.button13.Location = new System.Drawing.Point(164, 512);
             this.button13.Name = "button13";
@@ -208,6 +222,7 @@ namespace Calculator_App
             // 
             // panel1
             // 
+            this.panel1.AutoSize = true;
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(92)))), ((int)(((byte)(27)))));
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.button14);
@@ -215,7 +230,7 @@ namespace Calculator_App
             this.panel1.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold);
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(406, 30);
+            this.panel1.Size = new System.Drawing.Size(405, 33);
             this.panel1.TabIndex = 12;
             // 
             // label1
@@ -230,13 +245,14 @@ namespace Calculator_App
             // 
             // button14
             // 
+            this.button14.AutoSize = true;
             this.button14.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(81)))), ((int)(((byte)(90)))), ((int)(((byte)(71)))));
             this.button14.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button14.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Bold);
             this.button14.ForeColor = System.Drawing.Color.Red;
             this.button14.Location = new System.Drawing.Point(361, 3);
             this.button14.Name = "button14";
-            this.button14.Size = new System.Drawing.Size(42, 23);
+            this.button14.Size = new System.Drawing.Size(42, 27);
             this.button14.TabIndex = 0;
             this.button14.Text = "X";
             this.button14.UseVisualStyleBackColor = false;
@@ -244,6 +260,7 @@ namespace Calculator_App
             // 
             // button15
             // 
+            this.button15.AutoSize = true;
             this.button15.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(81)))), ((int)(((byte)(90)))), ((int)(((byte)(71)))));
             this.button15.Location = new System.Drawing.Point(243, 512);
             this.button15.Name = "button15";
@@ -255,6 +272,7 @@ namespace Calculator_App
             // 
             // button16
             // 
+            this.button16.AutoSize = true;
             this.button16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(81)))), ((int)(((byte)(90)))), ((int)(((byte)(71)))));
             this.button16.Location = new System.Drawing.Point(324, 512);
             this.button16.Name = "button16";
@@ -266,6 +284,7 @@ namespace Calculator_App
             // 
             // button17
             // 
+            this.button17.AutoSize = true;
             this.button17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(81)))), ((int)(((byte)(90)))), ((int)(((byte)(71)))));
             this.button17.Location = new System.Drawing.Point(329, 323);
             this.button17.Name = "button17";
@@ -277,6 +296,7 @@ namespace Calculator_App
             // 
             // button18
             // 
+            this.button18.AutoSize = true;
             this.button18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(81)))), ((int)(((byte)(90)))), ((int)(((byte)(71)))));
             this.button18.Location = new System.Drawing.Point(249, 323);
             this.button18.Name = "button18";
@@ -291,7 +311,7 @@ namespace Calculator_App
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(122)))), ((int)(((byte)(68)))), ((int)(((byte)(25)))));
-            this.ClientSize = new System.Drawing.Size(406, 636);
+            this.ClientSize = new System.Drawing.Size(405, 626);
             this.Controls.Add(this.button18);
             this.Controls.Add(this.button17);
             this.Controls.Add(this.button16);
