@@ -8,3 +8,13 @@ C:\Users\user\Desktop\Study\Codes\C# course\Final Project\Trial\Calculator_App\C
 C:\Users\user\Desktop\Study\Codes\C# course\Final Project\Trial\Calculator_App\Calculator_App\obj\Debug\Calculator_App.exe
 C:\Users\user\Desktop\Study\Codes\C# course\Final Project\Trial\Calculator_App\Calculator_App\obj\Debug\Calculator_App.pdb
 C:\Users\user\Desktop\Study\Codes\C# course\Final Project\Trial\Calculator_App\Calculator_App\obj\Debug\Calculator_App.SimpleCalculator.resources
+C:\Users\abdul\Source\Repos\Basic_Calculator_App\Calculator_App\Calculator_App\bin\Debug\Calculator_App.exe.config
+C:\Users\abdul\Source\Repos\Basic_Calculator_App\Calculator_App\Calculator_App\bin\Debug\Calculator_App.exe
+C:\Users\abdul\Source\Repos\Basic_Calculator_App\Calculator_App\Calculator_App\bin\Debug\Calculator_App.pdb
+C:\Users\abdul\Source\Repos\Basic_Calculator_App\Calculator_App\Calculator_App\obj\Debug\Calculator_App.csproj.AssemblyReference.cache
+C:\Users\abdul\Source\Repos\Basic_Calculator_App\Calculator_App\Calculator_App\obj\Debug\Calculator_App.SimpleCalculator.resources
+C:\Users\abdul\Source\Repos\Basic_Calculator_App\Calculator_App\Calculator_App\obj\Debug\Calculator_App.Properties.Resources.resources
+C:\Users\abdul\Source\Repos\Basic_Calculator_App\Calculator_App\Calculator_App\obj\Debug\Calculator_App.csproj.GenerateResource.cache
+C:\Users\abdul\Source\Repos\Basic_Calculator_App\Calculator_App\Calculator_App\obj\Debug\Calculator_App.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Source\Repos\Basic_Calculator_App\Calculator_App\Calculator_App\obj\Debug\Calculator_App.exe
+C:\Users\abdul\Source\Repos\Basic_Calculator_App\Calculator_App\Calculator_App\obj\Debug\Calculator_App.pdb
